@@ -32,7 +32,7 @@ endif
 
 bins:
 win32bins:
-dynlibs: $(TARGETS)
+dynlibs: $(ARCHDIR) $(TARGETS)
 staticlibs:
 win32staticlibs:
 
