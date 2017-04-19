@@ -35,5 +35,5 @@ Citing:
 
 If needed, you can cite this VMD plugin package as:
 Axel Kohlmeyer. (2017). VMD IR-spec plugins: Release 1.3 [Data set]. Zenodo. 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.556193.svg)](https://doi.org/10.5281/zenodo.556193)
+[![DOI](https://zenodo.org/badge/86404542.svg)](https://zenodo.org/badge/latestdoi/86404542)
 
